@@ -2,7 +2,7 @@
 * Your Information (Usually name, job title, when created)
 
 ## Contents
-* [What's in this Repo](##Whats-in-This-Repo)
+* [What's in this Repo](#Whats-in-This-Repo)
 * [Description of Project](#Description-Of-Project)
 * [Requirements To Install](#Requirements-To-Install)
 * [How to get Started](#How-to-get-Started)
@@ -21,6 +21,7 @@
         * Templates through Handlebars.JS
 * Screenshots
     * Has all the screenshots of the web application
+
 [Back To Top](#readmeForPhillip)
 
 ## Description of Project
@@ -34,6 +35,7 @@
 * Node.js version 10.10.0 or higher
 * MongoDB version 4.0 or higher
 * Google Chrome, FireFox, or Safari preferred
+
 [Back To Top](#readmeForPhillip)
 
 ## How to Get Started
@@ -46,18 +48,22 @@
 * After all those terminal commands have been installed, run the command: node bin/www or nodemon bin/www
 * Open browser and navigate to "http://localhost:3001/"
 * To test the Checkout process use card number: 5555-5555-5555-4444 the other information is able to be made up.
+
 [Back To Top](#readmeForPhillip)
 
 ## Video Walkthrough
 * Link. To Walkthrough
+
 [Back To Top](#readmeForPhillip)
 
 ## Screenshots
 * Add Screenshots
+
 [Back To Top](#readmeForPhillip)
 
 ## Problems We Encountered
 * Explain any Problems that happened during the creation of the project here
+
 [Back To Top](#readmeForPhillip)
 
 ##Contact
@@ -69,4 +75,5 @@
 * Team Links
     * Trello-Board
     * GitHub
+
 [Back To Top](#readmeForPhillip)
