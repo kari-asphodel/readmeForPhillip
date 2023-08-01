@@ -2,8 +2,8 @@
 * Your Information (Usually name, job title, when created)
 
 ##Contents
-* [What's in this Repo] (#Whats_in_This_Repo)
-* [Description of Project](#Description Of Project)
+* [What's in this Repo] (#Whats-in-This-Repo)
+* [Description of Project](#Description-Of-Project)
 * Requirements To Install
 * How to get Started
 * Video Walkthrough
