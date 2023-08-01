@@ -69,12 +69,12 @@
 
 ##Contact
 * Kari Asphodel
-    * Portfolio
-    * Trello-Board
-    * GitHub
-    * Email Kari
+    * [Portfolio]()
+    * [Trello-Board]()
+    * [GitHub]()
+    * [Email Kari]()
 * Team Links
-    * Trello-Board
-    * GitHub
+    * [Trello-Board]()
+    * [GitHub]()
 
 [Back To Top](#readmeforphillip)
