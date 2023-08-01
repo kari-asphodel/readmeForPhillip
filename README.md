@@ -2,14 +2,14 @@
 * Your Information (Usually name, job title, when created)
 
 ## Contents
-* [What's in this Repo](#Whats-in-This-Repo)
-* [Description of Project](#Description-Of-Project)
-* [Requirements To Install](#Requirements-To-Install)
-* [How to get Started](#How-to-get-Started)
-* [Video Walkthrough](#Video-Walkthrough)
-* [Screenshots](#Screenshots)
-* [Problems We encountered](#Problems-We-Encountered)
-* [Contact](#Contact)
+* [What's in this Repo](#whats-in-this-repo)
+* [Description of Project](#description-ofproject)
+* [Requirements To Install](#requirements-to-install)
+* [How to get Started](#how-to-get-started)
+* [Video Walkthrough](#video-walkthrough)
+* [Screenshots](#screenshots)
+* [Problems We encountered](#problems-we-encountered)
+* [Contact](#contact)
 
 ## Whats in This Repo
 * FrontEnd Folder
@@ -22,14 +22,14 @@
 * Screenshots
     * Has all the screenshots of the web application
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ## Description of Project
 * What this project does
 * What it hopes to accomplish
 * What problem it solves
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ## Requirements to Install
 * Node Package Manager (npm) version 6.4.1 or higher
@@ -37,7 +37,7 @@
 * MongoDB version 4.0 or higher
 * Google Chrome, FireFox, or Safari preferred
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ## How to Get Started
 * Download the zipped file, or clone the repo to your desktop using the Github Desktop Application
@@ -50,22 +50,22 @@
 * Open browser and navigate to "http://localhost:3001/"
 * To test the Checkout process use card number: 5555-5555-5555-4444 the other information is able to be made up.
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ## Video Walkthrough
 * Link. To Walkthrough
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ## Screenshots
 * Add Screenshots
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ## Problems We Encountered
 * Explain any Problems that happened during the creation of the project here
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
 
 ##Contact
 * Kari Asphodel
@@ -77,4 +77,4 @@
     * Trello-Board
     * GitHub
 
-[Back To Top](#readmeForPhillip)
+[Back To Top](#readmeforphillip)
