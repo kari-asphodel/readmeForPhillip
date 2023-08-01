@@ -3,7 +3,7 @@
 
 ##Contents
 * [What's in this Repo] (#Whats_in_This_Repo)
-* [Description of Project](#Description_Of_Project)
+* [Description of Project](#Description Of Project)
 * Requirements To Install
 * How to get Started
 * Video Walkthrough
