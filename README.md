@@ -1,8 +1,8 @@
 # readmeForPhillip
 * Your Information (Usually name, job title, when created)
 
-##Contents
-* [What's in this Repo] (#Whats-in-This-Repo)
+## Contents
+* [What's in this Repo](#Whats-in-This-Repo)
 * [Description of Project](#Description-Of-Project)
 * Requirements To Install
 * How to get Started
@@ -11,7 +11,7 @@
 * Problems We encountered
 * Contact
 
-##Whats in This Repo
+## Whats in This Repo
 * FrontEnd Folder
     * Holds client side information
 * BackEnd Folder
